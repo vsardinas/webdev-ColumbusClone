@@ -1,1 +1,33 @@
-/* CSS code  */
+ul {
+    margin: 0;
+    padding: 0;
+    background-color: #10243B
+}
+
+ul li {
+    list-style-type: none;
+    display: inline;
+    border: 0px;
+    padding: 15px;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+
+   li {
+    display: inline-block;
+    color: #a3dde8;
+    
+    
+}
+
+#nav1 {
+    height: 59px;
+}
+
+
