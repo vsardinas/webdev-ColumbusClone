@@ -30,6 +30,45 @@
 
 
 
+
+
+#herosec {
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0), transparent), url(images/fans.jpg);
+    /* background-image: url(images/fans.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+#herocontent{
+    position: relative;
+    top: 150px;
+    left: 50px;
+    color: white;
+    display: inline;
+}
+
+#herotext{
+    padding: 50px 0 0 25px;
+}
+
+#herotext h1{
+    font-size: 2.33em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    text-decoration-style: solid;
+}
+
+#herotext h4{
+    font-family: 'PT Sans Narrow', sans-serif;  
+    font-style: italic;  
+}
+
+
    
     
     
